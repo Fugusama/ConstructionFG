@@ -1,0 +1,10 @@
+name:
+version: 0.1.0
+main: sapufferfish.constructionfg.Main
+authors: [sapufferfish, Fugusama]
+api-version:
+
+commands:
+  confg:
+    usage: /confg
+    description: /
